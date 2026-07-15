@@ -6,7 +6,8 @@
 
 ### 2025 Dashboard
 
-![2025 Dashboard](images/dashboard-2025.png)
+<img width="1350" height="664" alt="Screenshot 2026-06-16 161645" src="https://github.com/user-attachments/assets/ab8d2e4a-1a24-42f1-a82a-7baa31e2f888" />
+
 
 ### 2026 Dashboard
 
