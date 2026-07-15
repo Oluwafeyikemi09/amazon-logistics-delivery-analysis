@@ -11,7 +11,8 @@
 
 ### 2026 Dashboard
 
-![2026 Dashboard](images/dashboard-2026.png)
+<img width="1343" height="655" alt="Screenshot 2026-06-16 161711" src="https://github.com/user-attachments/assets/953ed708-fe24-462d-894b-eaf4daea6a66" />
+
 
 ---
 
